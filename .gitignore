@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+
+# Environment variables
+.env
